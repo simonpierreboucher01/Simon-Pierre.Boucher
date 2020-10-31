@@ -1,3 +1,4 @@
+```markdown
 ## Info 
 * Simon-Pierre Boucher 
 * simon-pierre.boucher.1@ulaval.ca
@@ -7,9 +8,5 @@
 * PhD student in finance 
 
 ### [CV](https://www.google.com/search?client=safari&rls=en&q=doctorate+in+english&ie=UTF-8&oe=UTF-8)
-
-
-```markdown
-
 ```
 
