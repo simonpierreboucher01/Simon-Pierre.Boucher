@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Simon-Pierre Boucher
 
 You can use the [editor on GitHub](https://github.com/simonpierreboucher01/personal-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
